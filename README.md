@@ -23,7 +23,8 @@ Les classes principals són:
 
 ## Col·laboradors  
 - Akram Amkeched Ouriaghli  
-- Enric Navarro Ferrando  
+- Enric Navarro Ferrando 
 - Pablo Martinez Sanchez
 
-*Projecte realitzat per a l'assignatura **Entorns de Desenvolupament** (Institut Baix Camp).*
+*Projecte realitzat per a l'assignatura **Entorns de Desenvolupament** (Institut Baix Camp).
+Tutor de l'assignatura: Oscar*
